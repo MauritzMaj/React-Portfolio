@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
+import { ImCheckmark } from "react-icons/im";
 
 function AboutCard() {
   return (
@@ -15,19 +15,19 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight HTML />
+              <ImCheckmark /> HTML
             </li>
             <li className="about-activity">
-              <ImPointRight CSS/>
+              <ImCheckmark/> CSS
             </li>
             <li className="about-activity">
-              <ImPointRight Javascript/>
+              <ImCheckmark /> JavaScript
             </li>
             <li className="about-activity">
-              <ImPointRight SQL/> 
+              <ImCheckmark /> SQL
             </li>
             <li className="about-activity">
-              <ImPointRight React/> 
+              <ImCheckmark /> React
             </li>
           </ul>
         </blockquote>

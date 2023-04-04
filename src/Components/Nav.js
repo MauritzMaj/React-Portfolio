@@ -1,5 +1,7 @@
 import React from 'react';
 import { Link } from "react-router-dom"
+import { ImHome } from "react-icons/im";
+
 
 export default function Nav() {
   const linkStyle = { border: '1px black', padding: '5px' };
@@ -16,7 +18,7 @@ export default function Nav() {
         }}
       >
          <div style={linkStyle}>
-          <Link to="/">Home </Link>
+           <Link to="/"> <ImHome style padding="4px"/> Home </Link>
         </div>
         <div style={linkStyle}>
           <Link to="/about">About Me</Link>
