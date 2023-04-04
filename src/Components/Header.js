@@ -7,7 +7,7 @@ function Header() {
     <header className="flex-column px-1">
       <div className="logo">
         <h1>
-            Welcome to my portfolio!
+            Welcome to my Portfolio Page!
         </h1>
       </div>
       <Nav></Nav>

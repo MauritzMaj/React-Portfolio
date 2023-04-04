@@ -15,6 +15,9 @@ export default function Nav() {
           justifyContent: 'flex-start',
         }}
       >
+         <div style={linkStyle}>
+          <Link to="/">Home </Link>
+        </div>
         <div style={linkStyle}>
           <Link to="/about">About Me</Link>
         </div>

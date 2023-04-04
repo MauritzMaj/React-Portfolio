@@ -20,11 +20,11 @@ class App extends Component {
           <main>
             
           <Routes>
-              <Route exact path="/" component={Home} />
-              <Route exact path="/about" component={About} />
-              <Route exact path="/contact" component={Contact} />
-              <Route exact path="/portfolio" component={Portfolio} />
-              <Route exact path="/resume" component={Resume} />
+              <Route exact path="/" element={<Home />} />
+              <Route exact path="/about" element={<About />} />
+              <Route exact path="/contact" element={<Contact/>} />
+              <Route exact path="/portfolio" element={<Portfolio />} />
+              <Route exact path="/resume" element={<Resume />} />
             </Routes>
 
           </main>

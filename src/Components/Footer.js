@@ -7,7 +7,7 @@ function Footer() {
   let date = new Date();
   let year = date.getFullYear();
   return (
-    <footer fluid className="footer">
+    <footer className="footer">
       <Row>
       
         <Col md="12" className="footer-body">
