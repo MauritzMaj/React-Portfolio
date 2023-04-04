@@ -320,8 +320,10 @@ button {
 
 .home .portrait img {
   width: 15em;
-  border-radius: 50%;
-}
+  border-radius: 10%;
+  border: 10px solid #dbd6d6;
+  box-shadow:#1a1a1a 5px 3px 10px 5px;
+} 
 
 .about {
   text-align: center;

@@ -1,8 +1,16 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Aboutcard from "./AboutCard";
-import headShot from "../../Assets/Images/profile-pic.jpg"
+import headShot from "../../Assets/Images/profile-pic2.jpg"
 
+const imgStyle= {
+  width: "50%",
+  height: "100%",
+  objectFit: "cover",
+  borderRadius: "30%",
+  border: "5px solid #fff",
+  boxShadow: "0 0 10px #000"
+}
 function About() {
   return (
     <Container fluid className="about-section">
@@ -26,7 +34,7 @@ function About() {
             style={{ paddingTop: "120px", paddingBottom: "50px" }}
             className="about-img"
           >
-            <img src={headShot} alt="about" className="img-fluid" />
+            <img src={headShot} alt="about" className="img-fluid" style={imgStyle} />
           </Col>
        </Row>
       </Container>
