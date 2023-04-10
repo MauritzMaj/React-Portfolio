@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2c30162.css",
-    "main.js": "/static/js/main.6e720f48.js",
-    "static/media/profile-pic.jpg": "/static/media/profile-pic.9126c74254368231018f.jpg",
-    "static/media/profile-pic2.jpg": "/static/media/profile-pic2.f559d9923f3b6fe2880f.jpg",
-    "static/media/Day_Planner.png": "/static/media/Day_Planner.07122ea5959481b12598.png",
-    "static/media/Resume.pdf": "/static/media/Resume.9910c6ae97d7d13380af.pdf",
-    "static/media/Javascript_Quiz.png": "/static/media/Javascript_Quiz.efd54a578da2bdfbf442.png",
-    "static/media/Password_Generator.png": "/static/media/Password_Generator.ba643083d052926af51c.png",
-    "static/media/Employee_Tracker.png": "/static/media/Employee_Tracker.bdadcc24e487b6ec2d2c.png",
-    "static/media/Weather_Forecast.png": "/static/media/Weather_Forecast.87f553257a24f37a9296.png",
-    "static/media/Note_Taker.png": "/static/media/Note_Taker.204b0f5b0dcd91a207ab.png",
-    "index.html": "/index.html",
-    "main.b2c30162.css.map": "/static/css/main.b2c30162.css.map",
-    "main.6e720f48.js.map": "/static/js/main.6e720f48.js.map"
+    "main.css": "/React-Portfolio/static/css/main.b2c30162.css",
+    "main.js": "/React-Portfolio/static/js/main.901a98dc.js",
+    "static/media/profile-pic.jpg": "/React-Portfolio/static/media/profile-pic.9126c74254368231018f.jpg",
+    "static/media/profile-pic2.jpg": "/React-Portfolio/static/media/profile-pic2.f559d9923f3b6fe2880f.jpg",
+    "static/media/Day_Planner.png": "/React-Portfolio/static/media/Day_Planner.07122ea5959481b12598.png",
+    "static/media/Resume.pdf": "/React-Portfolio/static/media/Resume.9910c6ae97d7d13380af.pdf",
+    "static/media/Javascript_Quiz.png": "/React-Portfolio/static/media/Javascript_Quiz.efd54a578da2bdfbf442.png",
+    "static/media/Password_Generator.png": "/React-Portfolio/static/media/Password_Generator.ba643083d052926af51c.png",
+    "static/media/Employee_Tracker.png": "/React-Portfolio/static/media/Employee_Tracker.bdadcc24e487b6ec2d2c.png",
+    "static/media/Weather_Forecast.png": "/React-Portfolio/static/media/Weather_Forecast.87f553257a24f37a9296.png",
+    "static/media/Note_Taker.png": "/React-Portfolio/static/media/Note_Taker.204b0f5b0dcd91a207ab.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.b2c30162.css.map": "/React-Portfolio/static/css/main.b2c30162.css.map",
+    "main.901a98dc.js.map": "/React-Portfolio/static/js/main.901a98dc.js.map"
   },
   "entrypoints": [
     "static/css/main.b2c30162.css",
-    "static/js/main.6e720f48.js"
+    "static/js/main.901a98dc.js"
   ]
 }
